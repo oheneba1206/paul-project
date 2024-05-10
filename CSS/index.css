@@ -120,7 +120,7 @@
 
 .box3{
     background-image: url(../Images/Nzulezu-structures.jpg);
-    background-size: contain;
+    background-size: cover;
     width:50vw;
     height:50vh;
     margin-top: 10px;
