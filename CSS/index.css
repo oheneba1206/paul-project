@@ -1,0 +1,146 @@
+.con{ 
+    border:1px solid black;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../Images/canopy_walkway.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: #0e0c0c9a; */
+}
+
+.con h1{
+    color:yellow;
+    background-color: #100f0f75;
+    margin-left: 150px;
+    margin-bottom: 0;
+    display:inline-block;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+.details{
+    border: 3px solid yellow;
+    border-radius: 5px;
+    padding:3px;
+    background-color: yellow;
+}
+.link a {
+    text-decoration: none;
+    color:#0e0c0c;
+    padding: 5px; 
+    margin-left: 20px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.link{
+    margin-left: 850px; 
+}
+.con h2{
+    color:#fff;
+    background-color: #100f0f8f;
+    border-radius: 20%;
+    text-align: center;
+    font-size: 200px;
+    text-shadow: 50px;
+    margin:100px 100px 0px;
+}
+.con p{
+    color:#fff;
+    background-color: #100f0f82;
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 450px;
+}
+.box{
+    border:1px solid black;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    background-size: cover;
+    display: flex;
+}
+.box1 img{
+    border: 2px solid white;
+    display:inline;
+    border-radius: 15%;
+    margin: 50px;
+    padding-bottom: 1px;
+    padding-top: 2px;
+}
+.box2{
+    /* background-color:#1adae1; */
+    color:rgb(249, 248, 248);
+    border: 2px solid white;
+    display:inline;
+    border-radius: 10%;
+    /* opacity:0.6; */
+    margin-left: 150px;
+    margin-top: 50px;
+    padding-bottom: 1px;
+    padding-top: 2px;
+    width: 500px;
+    height: 500px;
+    
+}
+.box2 p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    font-size: 40px;
+    font-style: italic;
+    color: #fff;
+    margin:50px;
+
+}
+.form {
+    display:flex;
+}
+#fill{
+    color: rgb(11, 11, 10);
+    font-size: 20px;
+    background-size: 100px;
+    border-radius: 10%;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-bottom: 1px;
+    padding-top: 2px;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 580px;
+    height:400px;
+    line-break: 20px;
+    /* display: inline-block; */
+    }
+
+#fill h3{
+    text-align: center;
+    margin: 0;
+}
+
+.box3{
+    background-image: url(../Images/Nzulezu-structures.jpg);
+    background-size: contain;
+    width:50vw;
+    height:50vh;
+    margin-top: 10px;
+    /* margin-left: 50px; */
+}
+.box3 a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    text-align: 50%;
+    margin-left: 180px;
+    text-decoration: none;
+    color: rgb(252, 253, 253);    
+}
+    
+.member{
+    color: #f9f8f6;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 50px;
+    text-shadow: #0e0c0c;
+    font-size: 50px;
+    background-color: rgba(8, 1, 1, 0.342); 
+}
